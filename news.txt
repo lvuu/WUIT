@@ -1,0 +1,1 @@
+7/26/2022 - 1.0.0.2 was released! It now doesn't require administrator permissions anymore and also introduced this new feature... NEWS! So you can always check if there's something new :)
