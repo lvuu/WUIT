@@ -1,1 +1,3 @@
+6/9/2023 - It's been a while, 1.0.0.5 is here, it doesn't include anything new, just fixes for the update & news system along with some other fixes.
+
 7/26/2022 - 1.0.0.2 was released! It now doesn't require administrator permissions anymore and also introduced this new feature... NEWS! So you can always check if there's something new :)
